@@ -33,21 +33,31 @@ header {
 }
 .graden-1{
     background-color: #A7216226;
-    padding:80px 30px 0px 30px;
+    padding:75px 30px 0px 30px;
     border-radius: 200px 200px 0px 0px;
 }
-.poshpa{
+.item{
+  justify-content: center;
+  text-align: center;
+}
+.graden-I{
+    text-align: center;
+}
+.graden-II{
+    text-align: center;
+}
+.graden-II{
     text-align: center;
 }
 .graden-2{
     background-color:#0597A026;
-    padding:80px 10px 0px 10px;
+    padding:78px 10px 55px 10px;
     border-radius: 200px 200px 0px 0px;
     
 }
 .graden-3{
     background-color: #477D1126;
-    padding:50px 30px 0px 30px;
+    padding:33px 30px 0px 30px;
     border-radius: 200px 200px 0px 0px;
 }
 /*banner section*/
