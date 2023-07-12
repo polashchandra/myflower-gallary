@@ -1,0 +1,224 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #E554731A;
+    display: flex;
+
+}
+
+/* flower garden*/
+.garden-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.garden-peragrapgh {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.img-all{
+    display:flex;
+    gap: 24px;
+    padding: 30px;
+    margin:auto 240px auto 240px;
+   justify-content: space-around;
+}
+.graden-1{
+    background-color: #A7216226;
+    padding:80px 30px 0px 30px;
+    border-radius: 200px 200px 0px 0px;
+}
+.poshpa{
+    text-align: center;
+}
+.graden-2{
+    background-color:#0597A026;
+    padding:80px 10px 0px 10px;
+    border-radius: 200px 200px 0px 0px;
+    
+}
+.graden-3{
+    background-color: #477D1126;
+    padding:50px 30px 0px 30px;
+    border-radius: 200px 200px 0px 0px;
+}
+/*banner section*/
+.banner-section {
+    padding: 30px 50px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-write {
+    width: 50%;
+}
+
+.banner-heading {
+    width: 708px;
+    color: #272727;
+    text-align: left;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 50;
+}
+
+.banner-peragraph {
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+
+.btn-clicks {
+    border-radius: 8px;
+    background: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #fff;
+    border: none;
+}
+
+.banner-picture {
+    width: 500px;
+
+}
+
+main section {
+    margin-top: 100px;
+}
+
+/*section1*/
+.content-1 {
+    display: flex;
+    padding: 30px 150px 0px 150px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section-cover {
+    background-color: #E554731A;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.span-color {
+    color: #E55473;
+}
+
+.content-write {
+    width: 50%;
+}
+
+/* img section*/
+
+.section-photo {
+    margin: 100px 200px 100px 200px;
+    align-items: center;
+}
+
+.intagram {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.peragraph {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.img-card {
+    display: flex;
+    gap: 24px;
+    padding: 30px;
+    border-radius: 5px;
+    background: #FFF;
+
+}
+
+/* form part*/
+.from-section {
+    background-image: url("./img/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    align-items: center;
+    height: 449px;
+    flex-shrink: 0;
+    margin-left: 225px;
+    padding: 50px;
+}
+
+.form-heading {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.form-pera {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.from-input {
+    align-items: center;
+}
+
+input[type=email] {
+    width: 40%;
+    padding: 12px 12px;
+    box-sizing: border-box;
+    margin-left: 400px;
+    margin-right: 10px;
+
+}
+
+/*footer*/
+.footer-card {
+    background-color: #111010;
+    justify-content: center;
+    padding: 100px 100px 100px 100px;
+}
+
+.footer-color {
+    color: #E55473;
+}
+
+.footer-head {
+    color: #E55473;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-content {
+    color: #fff;
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.footer-cont {
+    color: #ffff;
+    text-align: center;
+}
